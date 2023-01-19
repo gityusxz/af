@@ -3,15 +3,18 @@ TTL : Jakarta-23-Desember
 Asal Daerah : Depok
 No. HP : 085770799263
 
-
 nama : fakhri
 TTL : bekasi,29 januari 2004
 Asal Daerah : Cikarang, Jawa Barat
 No. HP : 089514367182
 
+nama : Agus 
+TTL : Indramayu,16 Agustus 2002
+Asal Daerah : Indramayu, Jawa Barat
+No. HP : 085804686544
+
 nama : Daffa
 TTL : Jakarta, 15 Mei 2002
 Asal Daerah : Bekasi Timur, Jawa Barat
 No. HP : 081314689842
-
 
